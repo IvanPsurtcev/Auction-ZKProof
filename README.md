@@ -8,6 +8,6 @@
 такие как децентрализация анонимность, аутентификация, невозможность
 подделки, невозможность отказа от сделки, проверка победной цены.
 
-![image](https://github.com/IvanPsurtcev/Auction-ZKProof/assets/87025698/0c5faa26-c655-42af-aef4-d0b815a928f4)
+![image](https://github.com/IvanPsurtcev/Auction-ZKProof/assets/87025698/939c65db-eace-42c4-96e4-ab3fee29acc4)
 
 
